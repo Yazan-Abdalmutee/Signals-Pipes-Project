@@ -1,0 +1,11 @@
+float c = 0;
+float team1_player1_score = 0;
+float team1_player2_score = 0;
+float team2_player1_score = 0;
+float team2_player2_score = 0;
+float team1_sum=0;
+float team2_sum=0;
+float team1_score = 0.0;
+float team2_score = 0.0;
+int numOfRounds = 5;
+int rounds=0;
